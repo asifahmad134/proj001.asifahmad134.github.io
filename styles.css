@@ -1,0 +1,22 @@
+* {
+  font-family: "AR One Sans";
+  font-weight: bolder;
+}
+table {
+  border: 2px solid grey;
+  width: 600px;
+  margin: 0 auto;
+}
+body {
+  font-family: Tahoma, sans;
+  background-color: gainsboro;
+}
+tr {
+  margin: 0 auto;
+  text-align: justify;
+  border: 2px solid grey;
+}
+td {
+  margin: 0 auto;
+  border: 2px solid grey;
+}
